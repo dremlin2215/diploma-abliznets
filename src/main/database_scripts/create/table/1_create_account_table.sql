@@ -1,0 +1,7 @@
+CREATE TABLE account
+(
+    ID    int     NOT NULL AUTO_INCREMENT,
+    Money DECIMAL NOT NULL,
+
+    PRIMARY KEY (ID)
+);

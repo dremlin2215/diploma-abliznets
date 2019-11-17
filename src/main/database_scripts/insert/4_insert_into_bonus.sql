@@ -1,0 +1,1 @@
+INSERT INTO bonus (Name, Description, UserID) VALUE ('Gift certificate', 'USD20 certificate', 7)
